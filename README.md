@@ -1,8 +1,9 @@
 # PolymorphicBinarySearchTree
 
 Description:
-- This project utilizes Java to design an algorithm with the ability to navigate through any maze using Breadth-First Search and Depth-First-Search.
-- It Optimized navigation using Dijkstra’s algorithm to find shortest paths between nodes in the maze to lead to shorter run times of the program.
+- This purpose of this project is to create a polymorphic binary search tree with the ability to sort data sets.
+- There are two classes which are used to create the  BST, and one sepereate class used to create functions to manipulate the BST
+
 
 Utilization:
 In the example below the Polymorphic BST is used to sort every word in a .txt file in alaphabetical order and store the word count. The "funGUI" is used to demonstrate.
